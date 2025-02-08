@@ -1,0 +1,12 @@
+sources:
+  - name: raw_data
+    schema: banvic_data
+    database: desafiolh-449414
+    tables:
+      - name: agencias
+      - name: clientes
+      - name: colaborador_agencia
+      - name: colaboradores
+      - name: contas
+      - name: propostas_credito
+      - name: transacoes
